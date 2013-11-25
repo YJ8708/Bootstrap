@@ -1,0 +1,10 @@
+body{ 
+  padding-top: 150px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.user-grid{ 
+  padding: 15px;
+  margin: 0 auto;
+}
